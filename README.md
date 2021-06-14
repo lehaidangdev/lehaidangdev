@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Le Hai Dang
-- 👀 I’m interested in mobile development expesially in cross-platform
+- 👀 I’m interested in mobile development espeacially in cross-platform such as Flutter and React Native
 - 🌱 I’m currently learning React Native
 - 📫 Reach me @ lehaidangdev@gmail.com
 
